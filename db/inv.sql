@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 01 Jan 2022 pada 02.36
+-- Waktu pembuatan: 01 Jan 2022 pada 04.03
 -- Versi server: 10.1.38-MariaDB
 -- Versi PHP: 7.3.3
 
@@ -43,7 +43,7 @@ CREATE TABLE `customer` (
 --
 
 INSERT INTO `customer` (`id`, `nama`, `kontak`, `email`, `alamat`, `type_diskon`, `foto_ktp`) VALUES
-(2, 'rendi asu', '1212', 'rb@mail.com', 'dfdddf', '1', 'IMG_1000_crop.jpg');
+(2, 'rendi', '1212', 'rb@mail.com', 'dfdddf', '1', 'IMG_1000_crop.jpg');
 
 -- --------------------------------------------------------
 
